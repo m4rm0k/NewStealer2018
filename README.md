@@ -10,4 +10,5 @@
 ![ChromeEngineStealer](https://github.com/r3xq1/NewStealer2018/blob/master/Screenshot_1.png)
 
 *Тестировался только на: Windows 10 x64* За остальные системы сказать не могу.
+
 P.S: В случае если у Вас не показывает пароли, используйте другую версию библиотеки System.Data.SQLite.dll
