@@ -7,7 +7,7 @@
 
 В консоли есть 2 пункта: Вписываем как показано на скриншоте ( View или Save )
 
-![ChromeEngineStealer](https://preview.ibb.co/nFBh3d/Screenshot_2.png)
+![ChromeEngineStealer](https://image.ibb.co/ePVyby/Screenshot_2.png)
 ![CES](https://image.ibb.co/hxHdby/Screenshot_1.png)
 
 *Тестировался только на: Windows 10 x64* За остальные системы сказать не могу.
